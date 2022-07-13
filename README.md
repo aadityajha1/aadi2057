@@ -57,10 +57,8 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aadityajha1&theme=radical)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityajha1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aadityajha1&theme=radical)](https://git.io/streak-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityajha1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityajha1&show_icons=true&theme=radical)
 
 <!---
