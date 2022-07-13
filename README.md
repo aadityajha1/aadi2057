@@ -14,7 +14,7 @@
   </a>
 </div>
 
-- 👋 Hi, I’m @aadi2057
+- 👋 Hi, I’m @aadityajha1
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on MERN stack projects like e-commerce, cms, etc.
