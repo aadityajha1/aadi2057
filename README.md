@@ -19,15 +19,19 @@
   </h1>
 </div>
 
+---
 
-
-  
+### :man_technologist: About Me :
 
 - 👋 Hi, I’m @aadityajha1
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on MERN stack projects like e-commerce, cms, etc.
 - 📫 How to reach me Email: aadityajha2000@gmail.com
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityajha1&show_icons=true&theme=radical)
 
