@@ -25,9 +25,9 @@
 
 - 👋 Hi, I’m @aadityajha1
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on MERN stack projects like e-commerce, cms, etc.
-- 📫 How to reach me Email: aadityajha2000@gmail.com
+- 🌱 I’m currently learning advanced AWS services and software design patterns.
+- 💞️ I’m looking to collaborate on Full Stack Projects.
+- 📫 How to reach me Email: connectme.aaditya@gmail.com
 
 ---
 
